@@ -1,0 +1,170 @@
+body, p, div, ul, li
+{
+	margin: 0;
+	padding: 0;
+}
+
+.frame
+{
+	width: 100%;
+}
+.frame .header
+{
+	width: 100%;
+	text-align: center;
+	background-color: white;
+	border-bottom: 1px solid #e8e8e8;
+}
+.row
+{
+	width: 100%;
+}
+.frame .header ul li
+{
+	display: inline-block;
+	padding: 15px;
+}
+.frame .header ul.donasi a
+{
+	font-weight: bold;
+	color: #e3c625;
+}
+.frame .header ul.logo a
+{
+	font-weight: bold;
+	color: #3b3457;
+}
+.frame .header ul.logo img
+{
+	margin-right: 15px;
+}
+.frame .header ul.navigasi a
+{
+	color: #565656;
+}
+.frame .header ul.navigasi li .dropdown
+{
+	cursor: pointer;
+}
+.frame .header ul.navigasi li .dropdown .dropdown-menu
+{
+	width: 300px;
+	padding: 10px;
+	box-shadow: none;
+}
+.frame .header ul.navigasi li .dropdown .dropdown-menu li
+{
+	width: 100%;
+	margin: 10px 0px;
+	background-color: #ffb9a9;
+	font-weight: bold;
+	text-align: center;
+	color: #3b3457; 
+}
+
+.frame .body
+{	
+	width: 100%;
+}
+.frame .body .main-content
+{
+	padding: 10px 200px;
+}
+.frame .body .main-content .title-page
+{
+	width: 100%;
+	border-bottom: 1px solid #3b3557;
+	margin: 20px 0px;
+}
+.frame .body .main-content .title-page .page-name
+{
+	padding: 7px;
+	width: 150px;
+	margin: 0 auto;
+	background-color: #3b3557;
+	color: white;
+	text-align: center;
+}
+.frame .body .main-content .title-page img
+{
+	margin-right: 10px;
+}
+.frame .body .main-content .program
+{
+	margin-bottom: 30px;
+	text-align: center;
+}
+.frame .body .main-content .list-program .row
+{
+	margin: 0;
+	padding: 0;
+}
+.frame .body .main-content .list-about
+{
+	padding: 0px 30px;
+	text-align: center;
+}
+.frame .body .main-content .list-about .title
+{
+	margin-bottom: 30px;
+}
+.frame .body .main-content .list-about .about
+{
+	margin-top: 50px;
+}
+.frame .body .main-content .list-about .about
+{
+	margin-top: 50px;
+}
+.frame .body .main-content .list-about .tim
+{
+	margin: 50px 0px;
+}
+.frame .body .main-content .list-about .tim .paragraph .row div
+{
+	margin-bottom: 30px;
+}
+
+
+.frame .footer
+{
+	width: 100%;
+	padding: 30px 150px;
+	border-top: 1px solid #e3e3e3;
+}
+.frame .footer ul li
+{
+	list-style: none;
+}
+.frame .footer .support
+{
+	padding: 0px 30px;
+}
+.frame .footer .support img
+{
+	margin:20px 0px;
+}
+.frame .footer .media ul li
+{
+	display: inline-block;
+	margin: 3px;
+}
+.frame .footer h5
+{
+	font-weight: bold;
+	color: #3e6999;
+	margin-bottom:10px;
+}
+.frame .footer .media, .support, .about, .contact
+{
+	margin-bottom: 20px;
+}
+.frame .copy
+{
+	width: 100%;
+	padding: 10px 0px;
+	text-align: center;
+	background-color: #f4f4f4;
+	border-top: 1px solid #e7e7e7;
+}
+
